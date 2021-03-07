@@ -5,7 +5,7 @@ namespace Module2_Test.Models.Entities.Cleaning.SteamCleaner
 {
     public class SteamCleaner : CleaningDevice
     {
-        protected SteamCleaner(DateTime dateOfManufacture, Countries countryProducer, Producers producerName, string modelName, double width, double height, double length, int wattage, SteamCleanerTypes steamCleanerType)
+        public SteamCleaner(DateTime dateOfManufacture, Countries countryProducer, Producers producerName, string modelName, double width, double height, double length, int wattage, SteamCleanerTypes steamCleanerType)
             : base(dateOfManufacture, countryProducer, producerName, modelName, width, height, length, wattage)
         {
         }

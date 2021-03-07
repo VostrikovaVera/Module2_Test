@@ -5,7 +5,7 @@ namespace Module2_Test.Models.Entities.Cleaning.VacuumCleaner.RobotVacuumCleaner
 {
     public class DryRobotVacuumCleaner : VacuumCleaner
     {
-        protected DryRobotVacuumCleaner(DateTime dateOfManufacture, Countries countryProducer, Producers producerName, string modelName, double width, double height, double length, int wattage, int absorptionCapacity)
+        public DryRobotVacuumCleaner(DateTime dateOfManufacture, Countries countryProducer, Producers producerName, string modelName, double width, double height, double length, int wattage, int absorptionCapacity)
             : base(dateOfManufacture, countryProducer, producerName, modelName, width, height, length, wattage, absorptionCapacity)
         {
         }

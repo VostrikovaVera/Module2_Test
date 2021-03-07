@@ -5,7 +5,7 @@ namespace Module2_Test.Models.Entities.Cleaning.VacuumCleaner.ManualVacuumCleane
 {
     public class ManualVacuumCleaner : VacuumCleaner
     {
-        protected ManualVacuumCleaner(DateTime dateOfManufacture, Countries countryProducer, Producers producerName, string modelName, double width, double height, double length, int wattage, int absorptionCapacity)
+        public ManualVacuumCleaner(DateTime dateOfManufacture, Countries countryProducer, Producers producerName, string modelName, double width, double height, double length, int wattage, int absorptionCapacity)
             : base(dateOfManufacture, countryProducer, producerName, modelName, width, height, length, wattage, absorptionCapacity)
         {
         }
