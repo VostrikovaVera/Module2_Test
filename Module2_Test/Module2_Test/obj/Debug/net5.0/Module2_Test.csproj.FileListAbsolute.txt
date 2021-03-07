@@ -1,0 +1,4 @@
+C:\Users\Vira\learning\C# .NET\Module2_Test\Module2_Test\Module2_Test\obj\Debug\net5.0\Module2_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vira\learning\C# .NET\Module2_Test\Module2_Test\Module2_Test\obj\Debug\net5.0\Module2_Test.AssemblyInfoInputs.cache
+C:\Users\Vira\learning\C# .NET\Module2_Test\Module2_Test\Module2_Test\obj\Debug\net5.0\Module2_Test.AssemblyInfo.cs
+C:\Users\Vira\learning\C# .NET\Module2_Test\Module2_Test\Module2_Test\obj\Debug\net5.0\Module2_Test.csproj.CoreCompileInputs.cache
